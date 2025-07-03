@@ -1,0 +1,32 @@
+[
+    {
+        "name": "exp_r4_lr1e-4_attn",
+        "trainable_params": 1622016,
+        "val_loss": 0.004612790420651436,
+        "train_time": 1079.9411890506744
+    },
+    {
+        "name": "exp_r8_lr2e-4_attn",
+        "trainable_params": 1769472,
+        "val_loss": 0.004643510095775127,
+        "train_time": 1078.518319606781
+    },
+    {
+        "name": "exp_r16_lr5e-4_attn",
+        "trainable_params": 2064384,
+        "val_loss": 0.00481032719835639,
+        "train_time": 1076.2451536655426
+    },
+    {
+        "name": "exp_r8_lr2e-4_attn_mlp",
+        "trainable_params": 663552,
+        "val_loss": 0.005070437211543322,
+        "train_time": 1076.3389790058136
+    },
+    {
+        "name": "exp_r32_lr2e-4_attn_mlp",
+        "trainable_params": 2654208,
+        "val_loss": 0.0048828995786607265,
+        "train_time": 1080.320041179657
+    }
+]
