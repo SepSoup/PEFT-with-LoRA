@@ -25,7 +25,7 @@ The project explores how to fine-tune large language models efficiently while re
 ---
 
 ## GPT-2 Model Architecture
-![GPT-2 Architecture](./images/GPT2 model architecture.png)
+![GPT-2 Architecture](./images/GPT2model.png)
 
 ---
 
