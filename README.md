@@ -25,7 +25,7 @@ The project explores how to fine-tune large language models efficiently while re
 ---
 
 ## GPT-2 Model Architecture
-![GPT-2 Architecture](./GPT2%20model%20architecture.png)
+![GPT-2 Architecture](./images/GPT2 model architecture.png)
 
 ---
 
@@ -55,7 +55,7 @@ The notebook [`PEFT.ipynb`](./PEFT.ipynb) includes:
 ---
 
 ## Training and Validation Loss
-![Training and Validation Loss](./train-val-loss.png)
+![Training and Validation Loss](./images/train-val-loss.png)
 
 ---
 
